@@ -1,6 +1,6 @@
 {
   "project": "glashausen",
   "host": "https://www.glashausen.com/",
-  "reviewHost": "main--glashausen--davidnuescheler.aem.page",
+  "previewHost": "main--glashausen--davidnuescheler.aem.page",
   "liveHost": "main--glashausen--davidnuescheler.aem.live"
 }
